@@ -1,12 +1,9 @@
 {
   "jobs":[
     {
-      "absolute_url":"https://chainsafe.github.io/protocol/positions/libp2p.html",
-      "location":{
-        "name":"Toronto, Berlin, Zagreb, Remote (American/European timezones preferred)"
-      },
-      "updated_at":"2022-12-15T15:11:42+01:00",
+      "id":680842573,
       "title":"Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)",
+      "absolute_url":"https://chainsafe.github.io/protocol/positions/libp2p.html",
       "departments":[
         {
           "name":"Engineering"
@@ -14,12 +11,9 @@
       ]
     },
     {
-      "absolute_url":"https://chainsafe.github.io/protocol/positions/forest.html",
-      "location":{
-        "name":"Berlin, Zagreb, Remote (European timezones preferred)"
-      },
-      "updated_at":"2022-12-15T15:12:07+01:00",
+      "id":909933485,
       "title":"Protocol Engineer, Forest/Filecoin (Rust)",
+      "absolute_url":"https://chainsafe.github.io/protocol/positions/forest.html",
       "departments":[
         {
           "name":"Engineering"
@@ -27,12 +21,9 @@
       ]
     },
     {
-      "absolute_url":"https://chainsafe.github.io/protocol/positions/gossamer.html",
-      "location":{
-        "name":"Toronto, Berlin, Zagreb, Remote (American/European timezones preferred)"
-      },
-      "updated_at":"2022-12-15T15:10:49+01:00",
+      "id":345672987,
       "title":"Protocol Engineer, Gossamer/Polkadot (Go)",
+      "absolute_url":"https://chainsafe.github.io/protocol/positions/gossamer.html",
       "departments":[
         {
           "name":"Engineering"
