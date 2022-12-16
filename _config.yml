@@ -1,6 +1,4 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: ChainSafe Protocol
+logo: /assets/img/protocol.png
+description: ChainSafe Systems Protocol Engineering
 theme: jekyll-theme-minimal
