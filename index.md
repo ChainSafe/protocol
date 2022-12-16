@@ -2,122 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Protocol
 
-[Link to another page](./another-page.html).
+The Protocol-Engineering Department at ChainSafe Systems hosts all teams
+that implement specifications of decentralized ledger technologies as well as
+communication protocols. In general, protocols are clearly specified sets of
+rules and regulations that determine how data is transmitted and processed,
+as well as define the interfaces to access and manipulate even those.
 
-There should be whitespace between paragraphs.
+Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
+The following libraries we maintain are the cornerstones of ChainSafe Protocol:
+* [Lodestar](https://github.com/ChainSafe/lodestar): A modular Ethereum
+  consensus-layer client written in TypeScript
+* [Forest](https://github.com/ChainSafe/forest): A full-node client
+  implementation for Filecoin written in Rust
+* [Gossamer](https://github.com/ChainSafe/gossamer): A Polkadot host written
+  in the Go language
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Open positions:
+* [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
+* [Protocol Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
+* [Protocol Engineer, Forest/Filecoin (Rust)](./positions/forest.html)
+* [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+To apply, send a short introduction and a CV to <afri@chainsafe.io>. The doors
+for protocol engineering opportunities remain always open despite market
+conditions.
