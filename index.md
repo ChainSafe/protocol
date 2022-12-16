@@ -18,7 +18,8 @@ The following libraries we maintain are the cornerstones of ChainSafe Protocol:
   implementation for Filecoin (Rust)
 * [Gossamer](https://github.com/ChainSafe/gossamer): A Polkadot host (Go)
 
-Open positions:
+### Open positions
+
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
 * [Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
 * [Protocol Engineer, Forest/Filecoin (Rust)](./positions/forest.html)

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -28,13 +28,6 @@
         {% endunless %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <p class="view"><a href="https://github.com/ChainSafe/lodestar">Lodestar
-          <small>ChainSafe/lodestar</small></a></p>
-        <p class="view"><a href="https://github.com/ChainSafe/forest">Forest
-          <small>ChainSafe/forest</small></a></p>
-        <p class="view"><a href="https://github.com/ChainSafe/gossamer">Gossamer
-          <small>ChainSafe/gossamer</small></a></p>
       </header>
       <section>
 
@@ -42,10 +35,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>&copy; 2017 - 2023 <a href="https://chainsafe.io">ChainSafe Systems</a></small></p>
+        <p><small>&copy; 2017 - 2023 <a href="https://chainsafe.io">ChainSafe Systems</a>.</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
