@@ -13,11 +13,10 @@ as well as define the interfaces to access and manipulate even those.
 Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
 The following libraries we maintain are the cornerstones of ChainSafe Protocol:
 * [Lodestar](https://github.com/ChainSafe/lodestar): A modular Ethereum
-  consensus-layer client written in TypeScript
+  consensus-layer client (TypeScript)
 * [Forest](https://github.com/ChainSafe/forest): A full-node client
-  implementation for Filecoin written in Rust
-* [Gossamer](https://github.com/ChainSafe/gossamer): A Polkadot host written
-  in the Go language
+  implementation for Filecoin (Rust)
+* [Gossamer](https://github.com/ChainSafe/gossamer): A Polkadot host (Go)
 
 Open positions:
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
