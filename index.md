@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Protocol
+# ChainSafe Systems Protocol Engineering
 
 The Protocol-Engineering Department at ChainSafe Systems hosts all teams
 that implement specifications of decentralized ledger technologies as well as
@@ -20,10 +20,10 @@ The following libraries we maintain are the cornerstones of ChainSafe Protocol:
 
 Open positions:
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
-* [Protocol Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
+* [Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
 * [Protocol Engineer, Forest/Filecoin (Rust)](./positions/forest.html)
 * [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
-To apply, send a short introduction and a CV to <afri@chainsafe.io>. The doors
-for protocol engineering opportunities remain always open despite market
+To apply, send a short introduction and a résumé to <afri@chainsafe.io>. The
+doors for protocol engineering opportunities remain always open despite market
 conditions.
