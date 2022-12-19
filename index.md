@@ -4,28 +4,60 @@ layout: default
 
 # ChainSafe Systems Protocol Engineering
 
-The Protocol-Engineering Department at ChainSafe Systems hosts all teams
-that implement specifications of decentralized ledger technologies as well as
-communication protocols. In general, protocols are clearly specified sets of
-rules and regulations that determine how data is transmitted and processed,
-as well as define the interfaces to access and manipulate even those.
+Protocol engineering is a field that involves the design, implementation, and
+analysis of protocols for communication systems. Protocols are sets of rules
+and standards that govern the exchange of information between devices or
+systems. Protocol engineering is an interdisciplinary field that involves
+expertise in computer science, electrical engineering, and network theory.
 
-Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
-The following libraries we maintain are the cornerstones of ChainSafe Protocol:
+ChainSafe's protocol engineering department is responsible for designing and
+implementing protocols for blockchain systems. This may involve developing
+protocols for consensus mechanisms, data storage and retrieval, security, and
+other aspects of blockchain technology. The engineers in this department are
+also responsible for analyzing and testing protocols to ensure that they are
+reliable and secure.
 
-* [Lodestar](https://lodestar.chainsafe.io): A modular Ethereum
-  consensus-layer client (TypeScript)
-* [Forest](https://github.com/ChainSafe/forest): A full-node client
-  implementation for Filecoin (Rust)
-* [Gossamer](https://github.com/ChainSafe/gossamer): A Polkadot host (Go)
+In addition to designing and implementing protocols, protocol engineers are also
+responsible for researching and staying up-to-date on the latest developments in
+blockchain technology. They may work closely with other engineers, researchers,
+and developers to design and implement new protocols and integrate blockchain
+technology into existing systems. Blockchain protocol engineering is a rapidly
+evolving field that plays a critical role in developing and adopting blockchain
+technology.
+
+Protocol engineering is an important field that is critical in enabling
+communication and data exchange in distributed systems. Currently, we are active
+in the Ethereum, Filecoin, and Polkadot ecosystems. The following libraries we
+maintain are the cornerstones of ChainSafe Protocol.
+
+* **[Lodestar](https://lodestar.chainsafe.io) - an Ethereum consensus-layer
+  client (TypeScript):** Lodestar is a software that implements the Ethereum
+  consensus protocol and enables users to interact with the Ethereum blockchain.
+  The Ethereum consensus protocol is a set of rules that govern how transactions
+  are processed and validated on the Ethereum network.
+* **[Forest](https://github.com/ChainSafe/forest) - a full-node client for
+  Filecoin (Rust):** A full-node client implementation for Filecoin is
+  responsible for implementing the Filecoin protocol, which includes the
+  consensus mechanism, data storage and retrieval, and other aspects of the
+  Filecoin network. It allows users to connect to the Filecoin network, download
+  and validate the blockchain, and participate in the consensus process.
+* **[Gossamer](https://github.com/ChainSafe/gossamer) - a Polkadot host (Go):**
+  A Polkadot host is a peer-to-peer client that runs a full-node implementation
+  of the Polkadot protocol and participates in the Polkadot network as a
+  validator. As a validator, a Polkadot host is responsible for verifying and
+  validating transactions on the Polkadot network. It does this by participating
+  in the consensus process, which involves reaching an agreement with other
+  validators on the state of the network.
 
 ### Open positions
+
+The following blockchain and networking protocol engineering opportunities are
+currently available.
 
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
 * [Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
 * [Protocol Engineer, Forest/Filecoin (Rust)](./positions/forest.html)
 * [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
-To apply, send a short introduction and a résumé to <afri@chainsafe.io>. The
-doors for protocol engineering opportunities remain always open despite market
-conditions.
+The doors for protocol engineering opportunities remain always open despite
+market conditions.
