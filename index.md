@@ -12,6 +12,7 @@ as well as define the interfaces to access and manipulate even those.
 
 Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
 The following libraries we maintain are the cornerstones of ChainSafe Protocol:
+
 * [Lodestar](https://lodestar.chainsafe.io): A modular Ethereum
   consensus-layer client (TypeScript)
 * [Forest](https://github.com/ChainSafe/forest): A full-node client
