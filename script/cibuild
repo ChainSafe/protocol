@@ -2,7 +2,14 @@
 
 set -e
 
+for file in includes/*; do
+  base=$(basename -- $file)
+  name="_includes/${base%.*}.html"
+  touch $name
+done
+
 bundle exec jekyll build
+cp -rv ./_site/includes/* ./_includes/
 bundle exec htmlproofer ./_site --check-html --check-sri
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
