@@ -28,21 +28,20 @@ technology.
 ### Protocols at ChainSafe
 
 Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
-The following libraries we maintain are the cornerstones of **ChainSafe
-Protocol**.
+The following libraries we maintain are the cornerstones of ChainSafe Protocol.
 
-* **[Lodestar](https://lodestar.chainsafe.io) - an Ethereum consensus-layer
-  client (TypeScript):** Lodestar is a software that implements the Ethereum
+* [Lodestar](https://lodestar.chainsafe.io) - an Ethereum consensus-layer
+  client (TypeScript): Lodestar is a software that implements the Ethereum
   consensus protocol and enables users to interact with the Ethereum blockchain.
   The Ethereum consensus protocol is a set of rules that govern how transactions
   are processed and validated on the Ethereum network.
-* **[Forest](https://github.com/ChainSafe/forest) - a full-node client for
-  Filecoin (Rust):** A full-node client implementation for Filecoin is
+* [Forest](https://github.com/ChainSafe/forest) - a full-node client for
+  Filecoin (Rust): A full-node client implementation for Filecoin is
   responsible for implementing the Filecoin protocol, which includes the
   consensus mechanism, data storage and retrieval, and other aspects of the
   Filecoin network. It allows users to connect to the Filecoin network, download
   and validate the blockchain, and participate in the consensus process.
-* **[Gossamer](https://github.com/ChainSafe/gossamer) - a Polkadot host (Go):**
+* [Gossamer](https://github.com/ChainSafe/gossamer) - a Polkadot host (Go):
   A Polkadot host is a peer-to-peer client that runs a full-node implementation
   of the Polkadot protocol and participates in the Polkadot network as a
   validator. As a validator, a Polkadot host is responsible for verifying and
