@@ -25,10 +25,11 @@ technology into existing systems. Blockchain protocol engineering is a rapidly
 evolving field that plays a critical role in developing and adopting blockchain
 technology.
 
-Protocol engineering is an important field that is critical in enabling
-communication and data exchange in distributed systems. Currently, we are active
-in the Ethereum, Filecoin, and Polkadot ecosystems. The following libraries we
-maintain are the cornerstones of ChainSafe Protocol.
+### Protocols at ChainSafe
+
+Currently, we are active in the Ethereum, Filecoin, and Polkadot ecosystems.
+The following libraries we maintain are the cornerstones of **ChainSafe
+Protocol**.
 
 * **[Lodestar](https://lodestar.chainsafe.io) - an Ethereum consensus-layer
   client (TypeScript):** Lodestar is a software that implements the Ethereum
@@ -49,15 +50,32 @@ maintain are the cornerstones of ChainSafe Protocol.
   in the consensus process, which involves reaching an agreement with other
   validators on the state of the network.
 
+In addition to the protocol clients, we design, implement, and maintain a list
+of cryptographic, serialization, and networking libraries.
+
+* [bls](https://github.com/ChainSafe/bls): A JavaScript implementation of
+  Boneh-Lynn-Shacham Signatures (BLS).
+* [discv5](https://github.com/ChainSafe/discv5): A TypeScript implementation of
+  the Ethereum Discovery V5 protocol (`discv5`).
+* [go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel): Schnorr
+  Signatures over Ristretto255 in pure Go.
+* [js-libp2p-gossipsub](https://github.com/ChainSafe/js-libp2p-gossipsub):
+  A TypeScript implementation of Gossipsub.
+* [js-libp2p-noise](https://github.com/ChainSafe/js-libp2p-noise): A Noise
+  libp2p handshake for js-libp2p.
+* [ssz](https://github.com/ChainSafe/ssz): A TypeScript implementation of
+  Simple Serialize (SSZ).
+
 ### Open positions
 
 The following blockchain and networking protocol engineering opportunities are
-currently available.
+currently vacant.
 
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
 * [Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)](./positions/libp2p.html)
 * [Protocol Engineer, Forest/Filecoin (Rust)](./positions/forest.html)
 * [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
-The doors for protocol engineering opportunities remain always open despite
-market conditions.
+The doors for protocol engineering opportunities always remain open despite
+market conditions. If you are proficient with Rust, Go, or TypeScript, feel
+free to reach out!
