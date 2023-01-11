@@ -2,7 +2,7 @@
   "jobs":[
     {
       "id":680842573,
-      "title":"Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)",
+      "title":"Network Engineer, Lodestar/LibP2P (TypeScript)",
       "absolute_url":"https://chainsafe.github.io/protocol/positions/libp2p.html",
       "departments":[
         {
@@ -14,6 +14,16 @@
       "id":408286722,
       "title":"Protocol Engineer, Lodestar/Ethereum (TypeScript)",
       "absolute_url":"https://chainsafe.github.io/protocol/positions/lodestar.html",
+      "departments":[
+        {
+          "name":"Engineering"
+        }
+      ]
+    },
+    {
+      "id":559979334,
+      "title":"System Engineer, Forest/FVM (Rust)",
+      "absolute_url":"https://chainsafe.github.io/protocol/positions/fvm.html",
       "departments":[
         {
           "name":"Engineering"
