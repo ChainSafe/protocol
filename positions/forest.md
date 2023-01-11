@@ -26,9 +26,8 @@ maintain the Rust implementation of the Filecoin blockchain protocol, often
 referred to as a _node_ or a blockchain _client_. You will be tasked with
 implementing new features, occasionally from a technical specification or a
 reference implementation; maintaining existing features; ensuring the
-implementation stays compatible with the current specification of the protocol,
-and updating the code when upgrades are made to the network. The position is
-full-time and remote-friendly.
+implementation stays compatible with the current and historical specifications
+of the protocol, and updating the code when upgrades are made to the network.
 
 ##### About the role
 
@@ -37,7 +36,7 @@ protocols that have never been implemented before in that language, you have a
 passion for open-source software and understanding that you will be maintaining
 code that will be widely used on a decentralized network, you are able to
 clearly communicate and document your thoughts, and you have the desire to
-contribute to the space.
+contribute to the space. The position is full-time and remote-friendly.
 
 ### Responsibilities
 
@@ -45,7 +44,7 @@ contribute to the space.
   issues and turn it into Rust code
 - Design and implement new features for the client
 - Refactor and improve existing features in the client
-- Ensure the client says compatible with the other client implementations
+- Ensure the client stays compatible with the other client implementations
 - Collaborate with and assist team members with their issues
 - Collaborate with other protocol implementation teams to share knowledge on the
   protocol, whether it be high-level protocol details or technical details that
@@ -67,7 +66,7 @@ contribute to the space.
 - Experience with blockchain protocols, whether it be the usage of a blockchain
   API, knowledge of how a blockchain operates, or any other experience
 - Experience with distributed systems, peer-to-peer systems, network
-  programming, and cryptography
+  programming, or cryptography
 - Experience writing software from a technical specification or a reference
   implementation
 - Experience maintaining a large codebase with many components and keeping it
