@@ -2,7 +2,7 @@
 layout: opening
 ---
 
-# Protocol Networking Engineer, Lodestar/LibP2P (TypeScript)
+# Network Engineer, Lodestar/LibP2P (TypeScript)
 
 {% include intro.html %}
 
@@ -28,7 +28,7 @@ decentralized technology.
 
 ### About the Role
 
-As a protocol networking engineer, you will contribute to Lodestar and Libp2p by
+As a network engineer, you will contribute to Lodestar and Libp2p by
 developing accurate, secure and performant code to implement various networking
 specifications. No prior blockchain experience is required, but it is expected
 to gain protocol proficiency over time. You'll also have the opportunity to
