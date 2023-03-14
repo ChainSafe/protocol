@@ -6,59 +6,68 @@ layout: opening
 
 {% include intro.html %}
 
-### Here's what you need to know before reading on
+### About Gossamer/Polkadot
 
-- Our progressive tech stack includes Go, Rust, and TypeScript
-- We spearhead ecosystem projects like
-  [Lodestar](https://github.com/ChainSafe/lodestar),
-  [Forest](https://github.com/ChainSafe/forest), and
-  [Gossamer](https://github.com/ChainSafe/gossamer)
-- We are global, remote-friendly, and open to contractors
-
-At ChainSafe, you'll be part of a team that believes in the community's vital
-importance and contributes to advancing humanity with open-source and
-decentralized technology.
+As a protocol engineer for Gossamer, you will join a small team and develop and
+maintain the Go implementation of the Polkadot blockchain protocol, often
+referred to as a _host_ or a _client_. You will be tasked with
+implementing new features, occasionally from a technical specification or a
+reference implementation; maintaining existing features; ensuring the
+implementation stays compatible with the current and historical specifications
+of the protocol, and updating the code when upgrades are made to the network.
 
 ### Who we need
 
-We are looking for a trustworthy and proactive **Senior Go Developer** with
-experience building complex systems. Bonus points for experience in blockchain
-or distributed systems. As a Developer at ChainSafe, you can expect to work on
-cutting-edge technology and projects, formulate and execute strategies, and
-coordinate with other team members while taking a lot of initiative and
-ownership with minimal direction. You will be expected to contribute to your
-team's success through consistent, high-quality code and have an appetite for
-learning new things.
+As a protocol engineer, you have the desire to implement and deploy novel
+protocols that have never been implemented before in that language, you have a
+passion for open-source software and understanding that you will be maintaining
+code that will be widely used on a decentralized network, you are able to
+clearly communicate and document your thoughts, and you have the desire to
+contribute to the space. The position is full-time and remote-friendly.
 
-### Main responsibilities
+### Responsibilities
 
-- Identify, prioritize and execute tasks in the software development life cycle
-- Write scalable, robust, testable, efficient, and easily maintainable code
-- Play a key role in architectural and design decisions
-- Mentor other developers and do active code reviews
-- Automate tasks through appropriate tools and scripts
-- Collaborate with internal teams and vendors to fix and improve products
+- Read and understand a protocol specification and be able to break it into
+  issues and turn it into Go code
+- Design and implement new features for the host
+- Refactor and improve existing features in the host
+- Ensure the client stays compatible with the other host implementations
+- Collaborate with and assist team members with their issues
+- Collaborate with other protocol implementation teams to share knowledge on the
+  protocol, whether it be high-level protocol details or technical details that
+  are common to every client
+- Communicate effectively with the team and document your code and the client
+  as a whole
 
-### Must have
+### Required skills and experience
 
-- 5+ years of Go programming language, paradigms, constructs, and idioms
-- 7+ years of professional software back-end development experience
-- Excellent communication skills
+- Proficiency in Go
+  - 3+ years of Go programming language, paradigms, constructs, and idioms
+  - 5+ years of professional software back-end development experience
+- Knowledge of system design in Go
 - Effective usage of Go debugging tools
+- Be able to proactively dive into the novel territory and share knowledge on
+  what you've learned
 - Basic understanding of cryptography and common applications
 - Ability to write clean and effective documentation and comments
 
 ### Nice to have
 
-- Concrete understanding of core blockchain concepts and building distributed
-  systems or applications
+- Experience with Rust, as the Polkadot reference implementation (Substrate) is
+  written in Rust
+- Experience with blockchain protocols, whether it be the usage of a blockchain
+  API, knowledge of how a blockchain operates, or any other experience
+- Experience with distributed systems, peer-to-peer systems, network
+  programming, or cryptography
+- Experience writing software from a technical specification or a reference
+  implementation
+- Experience maintaining a large codebase with many components and keeping it
+  well-designed, future-proofed, and modular
+- Experience with documenting a large codebase, both for internal and
+  user-facing components
+- Familiarity with open-source software principles
 - Familiar with Git and GitHub/GitLab
 - Can construct and maintain CI/CD pipelines
 - Experience with RPC, WebSockets, or GraphQL
-- Experience with Rust, JavaScript/TypeScript, or Solidity
-- Contributions to Web3.0 projects
-- Experience working with Docker and/or Kubernetes
-- Experience working with any public cloud service (eg. AWS, Azure or GCP)
-- Understanding of Web 2.0 concepts and architecture
 
 {% include contact.html %}

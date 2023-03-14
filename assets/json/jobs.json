@@ -49,6 +49,16 @@
           "name":"Engineering"
         }
       ]
+    },
+    {
+      "id":601917363,
+      "title":"System Engineer, Gossamer/Runtime (Go)",
+      "absolute_url":"https://chainsafe.github.io/protocol/positions/runtime.html",
+      "departments":[
+        {
+          "name":"Engineering"
+        }
+      ]
     }
   ],
   "meta":{

@@ -6,27 +6,18 @@ layout: opening
 
 {% include intro.html %}
 
-### Here's what you need to know before reading on
+### About Lodestar/LibP2P
 
-- Our progressive tech stack includes Go, Rust, and TypeScript
-- We spearhead ecosystem projects like
-  [Lodestar](https://github.com/ChainSafe/lodestar),
-  [Forest](https://github.com/ChainSafe/forest), and
-  [Gossamer](https://github.com/ChainSafe/gossamer)
-- We are global, remote-friendly, and open to contractors
-- Lodestar is an Ethereum consensus-layer client and ecosystem of resources
-  to provide and support the Ethereum protocol, including the Libp2p networking
-  stack.
-- Libp2p is a peer-to-peer networking protocol enabling Lodestar to participate
-  in Ethereum consensus through its TypeScript implementation.
-- You will contribute to ensuring the long-term success of Ethereum and Lodestar
-  while being at the edge of multiple technological fronts.
+Libp2p is a peer-to-peer networking protocol enabling Lodestar to participate
+in Ethereum consensus through its TypeScript implementation.
+Lodestar is an Ethereum consensus-layer client _(Eth 2.0)_ and ecosystem of
+resources to provide and support the next generation of light clients. Light
+clients are the missing piece in today's blockchain ecosystems to achieve
+decentralization across the entire stack. You will contribute to ensuring the
+long-term success of Ethereum while being at the edge of multiple technological
+fronts.
 
-At ChainSafe, you'll be part of a team that believes in the community's vital
-importance and contributes to advancing humanity with open-source and
-decentralized technology.
-
-### About the Role
+### Who we need
 
 As a network engineer, you will contribute to Lodestar and Libp2p by
 developing accurate, secure and performant code to implement various networking
@@ -53,10 +44,15 @@ future design. The position is full-time and remote-friendly.
 
 ### Required skills and experience
 
-- Experience developing highly performant, secure, and scalable networking
-  software
-- Senior Proficiency in JavaScript and TypeScript (no front-end experience
-  required)
+- Proficiency in TypeScrit
+  - 5+ years of TypeScrit programming language, paradigms, constructs, and idioms
+  - 7+ years of professional software back-end development experience (no front-end experience required)
+- Experience developing highly performant, secure, and scalable networking software
+- Effective usage of TypeScript debugging tools
+- Be able to proactively dive into the novel territory and share knowledge on
+  what you've learned
+- Basic understanding of cryptography and common applications
+- Ability to write clean and effective documentation and comments\
 - Experience in distributed applications and peer-to-peer networking
 - Comfortable learning complex protocols from scratch
 - Takes initiative, is a self-starter, is accountable for work
@@ -65,13 +61,22 @@ future design. The position is full-time and remote-friendly.
 
 ### Nice to have
 
-- Experience with blockchain protocols
-- Experience with cryptography
-- Experience with development on nodeJS
-- Strong academic or engineering background
+- Experience with other networking stacks, including but not limited to tcp/ip, udp, quic
+- Experience with blockchain protocols, whether it be the usage of a blockchain
+  API, knowledge of how a blockchain operates, or any other experience
+- Experience with distributed systems, peer-to-peer systems, network
+  programming, or cryptography
+- Experience writing software from a technical specification or a reference
+  implementation
+- Experience maintaining a large codebase with many components and keeping it
+  well-designed, future-proofed, and modular
+- Experience with documenting a large codebase, both for internal and
+  user-facing components
+- Familiarity with open-source software principles
+- Familiar with Git and GitHub/GitLab
+- Can construct and maintain CI/CD pipelines
+- Experience with RPC, WebSockets, or GraphQL
 - Performance analysis and optimization, optimizing data structures and
   algorithms
-- DevOps, testing infrastructure, and CI for large systems
-- Familiarity with open-source software principles
 
 {% include contact.html %}

@@ -35,3 +35,6 @@ underrepresented in the blockchain space - or tech in general - to apply.
 To apply, send a short introduction and a résumé to <afri@chainsafe.io> to get
 the conversation started. Please indicate which team you are interested in the
 most or what programming language ecosystem you personally prefer.
+
+We get a lot of applications. If you don't hear back from us within two weeks,
+feel free to send a quick follow up!

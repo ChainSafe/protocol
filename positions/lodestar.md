@@ -6,24 +6,7 @@ layout: opening
 
 {% include intro.html %}
 
-ChainSafe is seeking dedicated protocol engineers to join the Lodestar team,
-the Ethereum consensus-layer _(Eth 2.0)_ implementation written in TypeScript.
-
-### Here's what you need to know before reading on
-
-- Our progressive tech stack includes Go, Rust, and TypeScript
-- We spearhead ecosystem projects like
-  [Lodestar](https://github.com/ChainSafe/lodestar),
-  [Forest](https://github.com/ChainSafe/forest), and
-  [Gossamer](https://github.com/ChainSafe/gossamer)
-- We are global, remote-friendly, and open to contractors
-
-At ChainSafe, you'll be part of a team that believes in the community's vital
-importance and contributes to advancing humanity with open-source and
-decentralized technology.
-
-
-##### About Lodestar
+### About Lodestar/Ethereum
 
 Lodestar is an Ethereum consensus-layer client _(Eth 2.0)_ and ecosystem of
 resources to provide and support the next generation of light clients. Light
@@ -32,7 +15,7 @@ decentralization across the entire stack. You will contribute to ensuring the
 long-term success of Ethereum while being at the edge of multiple technological
 fronts.
 
-##### About the role
+### Who we need
 
 As a protocol engineer, you will contribute to Lodestar by developing accurate,
 secure and performant code to implement various specifications. No prior
@@ -56,25 +39,39 @@ remote-friendly.
 
 ### Required skills and experience
 
-- Extended experience developing highly performant, secure, and scalable
-  software
-- Senior Proficiency in Javascript and TypeScript (no front-end experience
-  required)
+- Proficiency in TypeScrit
+  - 3+ years of TypeScrit programming language, paradigms, constructs, and idioms
+  - 5+ years of professional software back-end development experience (no front-end experience required)
+- Strong familiarity with Node.js C++ internals and/or the `v8` javascript engine
+- Effective usage of TypeScript debugging tools
+- Be able to proactively dive into the novel territory and share knowledge on
+  what you've learned
+- Basic understanding of cryptography and common applications
+- Ability to write clean and effective documentation and comments\
 - Experience in distributed applications and peer-to-peer networking
 - Comfortable learning complex protocols from scratch
 - Takes initiative, is a self-starter, is accountable for work
 - Experience with open-source software _or_ strong communication skills as we
   actively coordinate with external parties
-- Strong familiarity with Node.js C++ internals and/or the `v8` javascript engine
 
 ### Nice to have
 
-- Experience with blockchain protocols
-- Experience with cryptography
-- Strong academic or engineering background
+- Experience with Python, as the Ethereum specification is written in Python
+- Experience with blockchain protocols, whether it be the usage of a blockchain
+  API, knowledge of how a blockchain operates, or any other experience
+- Experience with distributed systems, peer-to-peer systems, network
+  programming, or cryptography
+- Experience writing software from a technical specification or a reference
+  implementation
+- Experience maintaining a large codebase with many components and keeping it
+  well-designed, future-proofed, and modular
+- Experience with documenting a large codebase, both for internal and
+  user-facing components
+- Familiarity with open-source software principles
+- Familiar with Git and GitHub/GitLab
+- Can construct and maintain CI/CD pipelines
+- Experience with RPC, WebSockets, or GraphQL
 - Performance analysis and optimization, optimizing data structures and
   algorithms
-- DevOps, testing infrastructure, and CI for large systems
-- Familiarity with open-source software principles
 
 {% include contact.html %}

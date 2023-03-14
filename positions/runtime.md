@@ -2,16 +2,16 @@
 layout: opening
 ---
 
-# System Engineer, Forest/FVM (Rust)
+# System Engineer, Gossamer/Runtime (Go)
 
 {% include intro.html %}
 
-### About Forest/FVM
+### About Gossamer/Runtime
 
-As a system engineer for ChainSafe Protocol, you will join a small team to
-develop and maintain the Rust implementation of the **Filecoin Virtual Machine
-(FVM)**, the heart of the Filecoin network. You will be tasked with regularly
-implementing new features, from an upcoming technical specification or a
+As a system engineer for ChainSafe Protocol, you will join a small team to develop and
+maintain a Go implementation of the Polkadot runtime, the heart of the Polkadot
+network. You will be tasked with regularly
+implementing new features, from a technical specification or a
 reference implementation; maintaining existing features; ensuring the
 implementation stays compatible with the current and historical specification
 of the protocol, and updating the code when upgrades are made to the network.
@@ -28,24 +28,24 @@ contribute to the space. The position is full-time and remote-friendly.
 ### Responsibilities
 
 - Read and understand a protocol specification and be able to break it into
-  issues and turn it into Rust code
-- Design and implement new features for the virtual machine
-- Refactor and improve existing features in the virtual machine
-- Ensure the virtual machine stays compatible with all client implementations
+  issues and turn it into Go code
+- Design and implement new features for the runtime
+- Refactor and improve existing features in the runtime
+- Ensure the client stays compatible with the other runtime implementations
 - Collaborate with and assist team members with their issues
 - Collaborate with other protocol implementation teams to share knowledge on the
   protocol, whether it be high-level protocol details or technical details that
   are common to every client
-- Communicate effectively with the team and document your code and the virtual
-  machine as a whole
+- Communicate effectively with the team and document your code and the runtime
+  as a whole
 
 ### Required skills and experience
 
-- Proficiency in Rust
-  - 5+ years of Rust programming language, paradigms, constructs, and idioms
+- Proficiency in Go
+  - 5+ years of Go programming language, paradigms, constructs, and idioms
   - 7+ years of professional software back-end development experience
-- Knowledge of system design in Rust
-- Effective usage of Rust debugging tools
+- Knowledge of system design in Go
+- Effective usage of Go debugging tools
 - Be able to proactively dive into the novel territory and share knowledge on
   what you've learned
 - Basic understanding of cryptography and common applications
@@ -55,7 +55,7 @@ contribute to the space. The position is full-time and remote-friendly.
 
 ### Nice to have
 
-- Experience with other low-level virtual machines such as EVM or LLVM
+- Experience with other low-level runtimes such as EVM or LLVM
 - Experience with blockchain protocols, whether it be the usage of a blockchain
   API, knowledge of how a blockchain operates, or any other experience
 - Experience with distributed systems, peer-to-peer systems, network
@@ -70,7 +70,5 @@ contribute to the space. The position is full-time and remote-friendly.
 - Familiar with Git and GitHub/GitLab
 - Can construct and maintain CI/CD pipelines
 - Experience with RPC, WebSockets, or GraphQL
-- Performance analysis and optimization, optimizing data structures and
-  algorithms
 
 {% include contact.html %}

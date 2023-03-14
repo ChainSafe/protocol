@@ -6,20 +6,7 @@ layout: opening
 
 {% include intro.html %}
 
-### Here's what you need to know before reading on
-
-- Our progressive tech stack includes Go, Rust, and TypeScript
-- We spearhead ecosystem projects like
-  [Lodestar](https://github.com/ChainSafe/lodestar),
-  [Forest](https://github.com/ChainSafe/forest), and
-  [Gossamer](https://github.com/ChainSafe/gossamer)
-- We are global, remote-friendly, and open to contractors
-
-At ChainSafe, you'll be part of a team that believes in the community's vital
-importance and contributes to advancing humanity with open-source and
-decentralized technology.
-
-##### About Forest
+### About Forest/Filecoin
 
 As a protocol engineer for Forest, you will join a small team and develop and
 maintain the Rust implementation of the Filecoin blockchain protocol, often
@@ -29,7 +16,7 @@ reference implementation; maintaining existing features; ensuring the
 implementation stays compatible with the current and historical specifications
 of the protocol, and updating the code when upgrades are made to the network.
 
-##### About the role
+### Who we need
 
 As a protocol engineer, you have the desire to implement and deploy novel
 protocols that have never been implemented before in that language, you have a
@@ -55,9 +42,14 @@ contribute to the space. The position is full-time and remote-friendly.
 ### Required skills and experience
 
 - Proficiency in Rust
+  - 3+ years of Rust programming language, paradigms, constructs, and idioms
+  - 5+ years of professional software back-end development experience
 - Knowledge of system design in Rust
+- Effective usage of Rust debugging tools
 - Be able to proactively dive into the novel territory and share knowledge on
   what you've learned
+- Basic understanding of cryptography and common applications
+- Ability to write clean and effective documentation and comments
 
 ### Nice to have
 
@@ -74,5 +66,10 @@ contribute to the space. The position is full-time and remote-friendly.
 - Experience with documenting a large codebase, both for internal and
   user-facing components
 - Familiarity with open-source software principles
+- Familiar with Git and GitHub/GitLab
+- Can construct and maintain CI/CD pipelines
+- Experience with RPC, WebSockets, or GraphQL
+- Performance analysis and optimization, optimizing data structures and
+  algorithms
 
 {% include contact.html %}
