@@ -34,7 +34,7 @@ underrepresented in the blockchain space - or tech in general - to apply.
 
 To apply:
 
-1. complete the [technical assessment](/task.html)
+1. complete the [technical assessment](../task.html)
    in the programming language relevant for this job description.
 2. publish your code on a versioning platform of your choice.
 3. send an email to <afri@chainsafe.io> containing the following

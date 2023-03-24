@@ -10,7 +10,6 @@ future work at ChainSafe, but rather allow you to show off your open-source
 skills on a reasonably compact project before applying to any of our open
 positions.
 
-
 ### Simple Summary
 
 It's as simple as that: You programmatically upload a file to the interplanetary
