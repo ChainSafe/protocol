@@ -9,13 +9,11 @@ don't match all the requirements.
 
 ### Hiring Steps
 
-- Selected candidates will be invited to a screening call with one of our
-  tech recruiters.
+- Prior to an interview, a technical task or a sample of open-source code
+  will be reviewed by the team along a provided CV.
 - Next, candidates will be invited to a values interview with one of our
   technical project managers.
-- Then, candidates will be asked to either complete a technical task catered
-  to the role or attend a live pairing excercise.
-- Lastly, candidates will be invited to an interview with the team lead.
+- Finally, candidates will be invited to an interview with the team lead.
 
 ### Why Join ChainSafe Systems Protocol Engineering
 
@@ -34,15 +32,11 @@ underrepresented in the blockchain space - or tech in general - to apply.
 
 To apply:
 
-1. complete the [technical assessment](../task.html)
-   in the programming language relevant for this job description.
-2. publish your code on a versioning platform of your choice.
-3. send an email to <afri@chainsafe.io> containing the following
+1. send an email to <afri@chainsafe.io> containing the following
    - an indicator what role you apply for
    - a motivational letter
    - an up-to-date résumé (CV)
-   - link to your technical assement's solution
-4. wait two weeks before you follow up
+2. wait two weeks before you follow up
 
 Note:
 
