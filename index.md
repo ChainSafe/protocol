@@ -71,7 +71,6 @@ The following blockchain and networking protocol engineering opportunities are
 currently vacant.
 
 * [Protocol Engineer, Lodestar/Ethereum (TypeScript)](./positions/lodestar.html)
-* [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
 The doors for protocol engineering opportunities always remain open despite
 market conditions. If you are proficient with Rust, Go, or TypeScript, feel
