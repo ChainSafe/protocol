@@ -29,9 +29,10 @@ contribute to the space. The position is full-time and remote-friendly.
 
 - Read and understand a protocol specification and be able to break it into
   issues and turn it into Go code
-- Design and implement new features for the host
-- Refactor and improve existing features in the host
+- Design and implement new features for the Polkadot host
+- Refactor and improve existing features in the Polkadot host
 - Ensure the client stays compatible with the other host implementations
+- Maintain up-to-date technical documentation
 - Collaborate with and assist team members with their issues
 - Collaborate with other protocol implementation teams to share knowledge on the
   protocol, whether it be high-level protocol details or technical details that
@@ -42,14 +43,20 @@ contribute to the space. The position is full-time and remote-friendly.
 ### Required skills and experience
 
 - Proficiency in Go
-  - 3+ years of Go programming language, paradigms, constructs, and idioms
-  - 5+ years of professional software back-end development experience
+  - 5+ years of Go programming language, paradigms, constructs, and idioms
+  - 8+ years of professional software back-end development experience
 - Knowledge of system design in Go
 - Effective usage of Go debugging tools
+- Familiarity with Rust and high conviction to learn
+- Understanding of distributed systems, consensus algorithms, networking models,
+  and broadcast algorithms
+- 3+ years of experience working with blockchain or highly distributed systems
 - Be able to proactively dive into the novel territory and share knowledge on
   what you've learned
 - Basic understanding of cryptography and common applications
 - Ability to write clean and effective documentation and comments
+- Experience working with open-source software projects
+    - Familiarity with open-source software principles
 
 ### Nice to have
 
@@ -65,9 +72,6 @@ contribute to the space. The position is full-time and remote-friendly.
   well-designed, future-proofed, and modular
 - Experience with documenting a large codebase, both for internal and
   user-facing components
-- Familiarity with open-source software principles
-- Familiar with Git and GitHub/GitLab
-- Can construct and maintain CI/CD pipelines
 - Experience with RPC, WebSockets, or GraphQL
 
 {% include contact.html %}
