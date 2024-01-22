@@ -70,7 +70,7 @@ of cryptographic, serialization, and networking libraries.
 The following blockchain and networking protocol engineering opportunities are
 currently vacant.
 
-* _none_
+* [Protocol Engineer, Gossamer/Polkadot (Go)](./positions/gossamer.html)
 
 The doors for protocol engineering opportunities always remain open despite
 market conditions. If you are proficient with Rust, Go, or TypeScript, feel
