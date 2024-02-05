@@ -32,7 +32,7 @@ underrepresented in the blockchain space - or tech in general - to apply.
 
 To apply:
 
-1. send an email to <afri@chainsafe.io> containing the following
+1. send an email to <kirill@chainsafe.io> containing the following
    - an indicator what role you apply for
    - a motivational letter
    - an up-to-date résumé (CV)
