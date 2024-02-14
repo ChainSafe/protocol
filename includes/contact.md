@@ -7,13 +7,6 @@ layout: plain
 If you feel like you're the perfect fit for the role, please apply even if you
 don't match all the requirements.
 
-### Hiring Steps
-
-- Prior to an interview, a technical task or a sample of open-source code
-  will be reviewed by the team along a provided CV.
-- Next, candidates will be invited to a values interview with one of our
-  technical project managers.
-- Finally, candidates will be invited to an interview with the team lead.
 
 ### Why Join ChainSafe Systems Protocol Engineering
 
@@ -32,7 +25,7 @@ underrepresented in the blockchain space - or tech in general - to apply.
 
 To apply:
 
-1. send an email to <kirill@chainsafe.io> containing the following
+1. send an email to <{{email}}> containing the following
    - an indicator what role you apply for
    - a motivational letter
    - an up-to-date résumé (CV)
