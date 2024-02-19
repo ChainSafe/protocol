@@ -74,4 +74,6 @@ contribute to the space. The position is full-time and remote-friendly.
   user-facing components
 - Experience with RPC, WebSockets, or GraphQL
 
-{% include contact.html %}
+{% include hiring_steps_gossamer_extended.html %}
+
+{% include contact.html email='kirill@chainsafe.io' %}
