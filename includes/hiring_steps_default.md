@@ -2,7 +2,6 @@
 layout: plain
 ---
 
-
 ### Hiring Steps
 
 - Prior to an interview, a technical task or a sample of open-source code

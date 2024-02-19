@@ -12,5 +12,4 @@ layout: plain
 - Given the review of the first technical assignment, a technical 60-minute interview with our engineers will be scheduled.
     - Among other follow up question based on the first technical assignment will be asked during technical interview to prove they are the author of submission and to see how they can code/problem solve in a live environment.
 - Then, if necessary, candidates will be asked to complete a second technical task in under 10-20 hours. Your time and expertise demonstrated in the work test challenge will be compensated upon completion.
-- Your time and expertise demonstrated in the work test challenge will be compensated
 - After the completion of the test assignment call with Engineering team to discuss and review the results, for 60 minutes.
